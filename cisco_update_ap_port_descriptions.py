@@ -3,7 +3,7 @@
 @description: A simple multithreaded python script to update AP port descriptions for Cisco ASWs in VLAN 920 using LLDP
 @usage: Can be run via CLI by running python3 cisco_update_ap_port_descriptions.py
 @notes: Input CSV file containing IP addresses of ASWs should be named input.csv and be located
-withing the same directory as this script. Input file parameters can be modified at line 113. All column names should be
+withing the same directory as this script. Input file parameters can be modified at line 82. All column names should be
 removed from input.csv as well. 
 """
 
